@@ -1,0 +1,21 @@
+From f7915f806abff511e91a6fff61570ee5c298bdc8 Mon Sep 17 00:00:00 2001
+From: ehoLiang <363095394@qq.com>
+Date: Thu, 2 Jul 2015 09:18:16 +0800
+Subject: [PATCH] Initial commit
+
+---
+ README.md |    2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..9c02754
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,2 @@
++# testGit
++Just Test.
+-- 
+1.7.9.5
+
